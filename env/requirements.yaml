@@ -10,3 +10,6 @@ dependencies:
 - name: okta-spring-boot-jx-example
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: okta-spring-jx-example
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
